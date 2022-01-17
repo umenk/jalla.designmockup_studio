@@ -1,0 +1,1 @@
+sh customdomain.sh && php import-kw.php keywords.txt && php export-hugo.php && cd export/deploy && hugo

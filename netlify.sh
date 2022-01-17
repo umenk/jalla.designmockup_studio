@@ -1,0 +1,1 @@
+var=val printf "public\n" | sh shuriken2.sh

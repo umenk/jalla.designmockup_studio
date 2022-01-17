@@ -1,0 +1,1 @@
+netlify sites:create && sh clean.sh && sh resetcom.sh && sh autoreset.sh && sh setcom.sh && sh auto2.sh && sh customdomain.sh && sh auto.sh && sh resetcom.sh && sh autoreset.sh

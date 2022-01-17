@@ -1,0 +1,1 @@
+rm -rf ../berkah/data/* && rm -rf ../berkah/export/deploy/public && rm -rf ../berkah/export/deploy/content/post/*

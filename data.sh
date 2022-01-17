@@ -1,0 +1,1 @@
+sh resetdata.sh && sh datareset.sh && sh datacom.sh && sh data2.sh && sh setting.sh && sh adadata.sh && sh resetdata.sh && sh datareset.sh

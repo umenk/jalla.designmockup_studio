@@ -1,0 +1,3 @@
+ <p align="justify">
+	If you're {looking|searching} for <strong>{{ $keyword }}</a></strong> {pictures|images} information {related|linked|connected with} to the <strong>{{ $keyword }}</a></strong> {keyword|topic|interest}, {you've|you have} {come to|visit|pay a visit to} the {right|ideal} {blog|site}.  Our {site|website} {always|frequently} {provides you with|gives you} {suggestions|hints} for {refferencing|downloading|seeking|viewing|seeing} the {highest|maximum} quality video and {image|picture} content, please kindly {surf|search|hunt} and {find|locate} more {informative|enlightening} video {content|articles} and {images|graphics} that {match|fit} your interests.
+</p>
